@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99e6cef1-2642-4c8b-a9b6-c68527a1bb5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CaseStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Bullet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Gun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Zombie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TankGame" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-tank" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-tank/GameManager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-tank/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo-tank/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Bang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/UI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Bullet.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Bullet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Gun.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Gun.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Zombie.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Zombie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TankGame" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +21,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TankGame" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,7 +70,8 @@
       <workItem from="1650278976770" duration="253000" />
       <workItem from="1650294931392" duration="8905000" />
       <workItem from="1650330796319" duration="21086000" />
-      <workItem from="1650449978825" duration="1137000" />
+      <workItem from="1650449978825" duration="1870000" />
+      <workItem from="1650476140639" duration="2027000" />
     </task>
     <servers />
   </component>
@@ -91,5 +88,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/TankGame" />
+      <path value="$PROJECT_DIR$/demo-tank" />
+    </ignored-roots>
   </component>
 </project>

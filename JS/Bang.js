@@ -1,5 +1,5 @@
-class Zombie {
-    constructor(canvas, imageName, row, col) {
+class Bang {
+    constructor(canvas, imageName, row, col, x, y) {
         this.pen = canvas.getContext('2d');
         this.image = new Image();
         this.image.src = imageName;
@@ -7,8 +7,8 @@ class Zombie {
         this.col = col;
         this.indexCol = 0;
         this.indexRow = 0;
-        this.x = Math.random() * canvas.width * 0.92;
-        this.y = 0;
+        this.x = x;
+        this.y = y;
         this.width = 50;
         this.height = 50;
     }
@@ -23,10 +23,6 @@ class Zombie {
 
     updateFrame() {
         this.indexRow < this.row - 1 ? this.indexRow++ : this.indexRow = 0;
-    }
-
-    move() {
-        this.y += 4;
     }
 
 }
