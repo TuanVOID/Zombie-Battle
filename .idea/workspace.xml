@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e6cef1-2642-4c8b-a9b6-c68527a1bb5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CaseStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Bullet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Gun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Zombie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TankGame" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-tank" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-tank/GameManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-tank/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo-tank/demo.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TankGame" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27oiK2su1UJSHIaDSTLuicPl7qq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e6cef1-2642-4c8b-a9b6-c68527a1bb5c" name="Changes" comment="" />
+      <created>1649992773274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649992773274</updated>
+      <workItem from="1649992774346" duration="54000" />
+      <workItem from="1649992836458" duration="56000" />
+      <workItem from="1649995979918" duration="8068000" />
+      <workItem from="1650214952626" duration="3000" />
+      <workItem from="1650245563233" duration="338000" />
+      <workItem from="1650246087948" duration="14424000" />
+      <workItem from="1650272304987" duration="6632000" />
+      <workItem from="1650278976770" duration="253000" />
+      <workItem from="1650294931392" duration="8905000" />
+      <workItem from="1650330796319" duration="21086000" />
+      <workItem from="1650449978825" duration="1137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
